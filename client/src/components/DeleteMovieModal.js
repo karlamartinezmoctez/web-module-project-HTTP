@@ -23,4 +23,6 @@ const DeleteMovieModal = () => {
     </div>)
 }
 
+//comment
+
 export default DeleteMovieModal;
